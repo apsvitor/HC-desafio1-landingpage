@@ -16,9 +16,9 @@ https://hc-vitor-desafio1.netlify.app/
 ---
 
 ## Tecnologias utilizadas:
-    - [x] HTML
-    - [x] CSS
-    - [x] JavaScript
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
 
 ---
 
