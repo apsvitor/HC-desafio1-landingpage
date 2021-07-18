@@ -17,5 +17,8 @@ form.addEventListener('submit', (e) => {
 	else {
 		alert("Falha no cadastro! Preencha os campos corretamente.");
 	}
+    document.getElementById('name').value = '';
+    document.getElementById('email').value = '';
+
 	localStorage.setItem('lead', storedData);
 });
