@@ -11,7 +11,7 @@ Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing pag
 
 ### Teste Aqui:
 
-https://hc-vitor-desafio1.netlify.app/
+[BlackFriday Landing Page](https://hc-vitor-desafio1.netlify.app/)
 
 ---
 
@@ -24,6 +24,5 @@ https://hc-vitor-desafio1.netlify.app/
 
 #### Sempre aberto a sugestões e melhorias! Entre em contato comigo:
 
-    <a href="https://www.linkedin.com/in/apsvitor/" target="_blank">LinkedIn - Vitor Antonio</a>
-
+[Conecte-se comigo pelo LinkedIn](https://www.linkedin.com/in/apsvitor/)
 ---
