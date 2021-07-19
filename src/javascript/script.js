@@ -7,8 +7,6 @@ form.addEventListener('submit', (e) => {
 	let data = { name , email };
 	let storedData = JSON.stringify(data);
 
-	console.log(data);
-
 	if  (name !== "" & email !==""){
 		setTimeout(() => {
 			alert("Cadastro realizado com sucesso! Aproveite as ofertas!")
